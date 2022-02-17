@@ -25,7 +25,7 @@ I liked coding and I want to learn. 🔥🔥🔥
 </td><td valign="top" width="50%">
 <div align="center">
 
-<img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" align="center" style="width: 800%" />
 </div>  
 </td></tr></table>  
 <br/>  
