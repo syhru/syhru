@@ -16,7 +16,7 @@ I liked coding and I want to learn. 🔥🔥🔥
   ## My Info  
 <table><tr><td valign="top" width="50%">
  
-  - 🎓 Institut Digital Bisnis  
+  - 🎓 Universitas Bina Insani  
   
   - 👨🏻‍💻 TECHNICAL INFORMATIKA
   
