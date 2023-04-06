@@ -1,6 +1,6 @@
 <div id="##">
-Hey Guys👋
-<h1>I'm Muhammad Syahru Romadhona </h1>
+<h1>Hey Guys👋</h1>
+<h2>I'm Muhammad Syahru Romadhona </h2>
 </div>
   
 <a href="https://github.com/syhru" target="_blank">
