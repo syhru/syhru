@@ -1,4 +1,4 @@
-## Hey Guys👋 <br>
+## Hey Guys👋
 <h1>I'm Muhammad Syahru Romadhona </h1>
   
 <a href="https://github.com/syhru" target="_blank">
