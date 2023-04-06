@@ -1,5 +1,7 @@
-## Hey Guys👋
+<div id="##">
+Hey Guys👋
 <h1>I'm Muhammad Syahru Romadhona </h1>
+</div>
   
 <a href="https://github.com/syhru" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
