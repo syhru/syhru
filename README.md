@@ -119,7 +119,6 @@ I am currently working as a Freelancer, where my journey involves building and l
       <td align="center" width=110>Windows</td>
       <td align="center" width=110>Linux</td>
       <td align="center" width=110>Ubuntu</td>
-   
     </tr>
   </table>
 </div>
@@ -135,3 +134,4 @@ I am currently working as a Freelancer, where my journey involves building and l
  For a quick response, DM me on [Instagram](https://www.instagram.com/syhru_arr/) or [LinkedIn](https://www.linkedin.com/in/muhammad-syahru-413241278/). 
  
  For professional inquiries, reach out via email at [muhamadarul746@gmail.com](mailto:muhamadarul746@gmail.com). 
+
