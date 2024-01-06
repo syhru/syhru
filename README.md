@@ -26,7 +26,7 @@ I am currently working as a Freelancer, where my journey involves building and l
   - I love trying new and challenging things 
 
 
-<img src="code.gif" width="100%" height="50%" /> 
+<img src="code.gif" width="100%" height="20%" /> 
 
 
 ## 📫 Contact
