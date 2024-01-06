@@ -8,6 +8,7 @@ I am a 21-year-old college student who is a Front-End/Back-End with two years of
 - Stay updated with my journey on [Instagram](https://www.instagram.com/syhru_arr/), and [LinkedIn](https://www.linkedin.com/in/muhammad-syahru-413241278/) 
 
 
+
 ## 🔭 Current Endeavors 
 
 I am currently working as a Freelancer, where my journey involves building and learning. This is what I am currently focusing on:
@@ -15,12 +16,7 @@ I am currently working as a Freelancer, where my journey involves building and l
 - I am involved in interesting fullstack projects.
 - I explore different tools and libraries to improve my skills.
 - I'm a morning person, always excited and constantly learning in the tech world.
-  
-## 
 
-- Demon Slayer is my favorite anime.
-- As a kid, I wanted to be an astronaut.
-- I love using Mac after switching from Linux.
   
   ## ✨ Fun Facts   
 <table><tr><td valign="top" width="50%">
