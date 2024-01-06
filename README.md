@@ -49,7 +49,6 @@ I am currently working as a Freelancer, where my journey involves building and l
       <td align="center" width=110>Php</td>
       <td align="center" width=110>MySQL</td>
     </tr>
-    <tr>
   </table>
 
   <table>
