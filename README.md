@@ -50,7 +50,8 @@ I am currently working as a Freelancer, where my journey involves building and l
       <td align="center" width=110>MySQL</td>
     </tr>
     <tr> 
-      <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110> <img src="[https://techstack-generator.vercel.app/mysql-icon.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg)" alt="icon"     
+      width="65" height="65" /> </td>
     </tr>
     <tr>
       <td align="center" width=110>Mongo DB</td>
