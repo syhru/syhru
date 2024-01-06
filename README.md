@@ -7,6 +7,7 @@ I am a 21-year-old college student who is a Front-End/Back-End with two years of
 - Check out my linktree [website](http://linkmee.github.me/) to learn more about me.
 - Stay updated with my journey on [Instagram](https://www.instagram.com/syhru_arr/) and [LinkedIn](https://www.linkedin.com/in/muhammad-syahru-413241278/) 
 
+ <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon" width="65" height="65" /> </td>
 
 
 ## 🔭 Current Endeavors 
