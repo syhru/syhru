@@ -1,69 +1,47 @@
 ## Hey Guys!!👋
 
-<h2>I'm Muhammad Syahru Romadhona </h2>
-  
-<a href="https://github.com/syhru" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/syhru_arr/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+I'm Muhammad Syahru Romadhona
 
+I am a 21-year-old college student who is a Front-End/Back-End with two years of web development experience, specializing in JavaScript. I am passionate about keeping up with the latest industry developments and consistently improving my skills creating digital experiences.
   
-  ### Glad to see you here!  
-I liked coding and I want to learn. 🔥🔥🔥  
+- Check out my linktree [website](http://linkmee.github.me/) to learn more about me.
+- Stay updated with my journey on [Instagram](https://www.instagram.com/syhru_arr/), and [LinkedIn](https://www.linkedin.com/in/muhammad-syahru-413241278/) 
+
+
+## 🔭 Current Endeavors 
+
+I am currently working as a Freelancer, where my journey involves building and learning. This is what I am currently focusing on:
+
+- I am involved in interesting fullstack projects.
+- I explore different tools and libraries to improve my skills.
+- I'm a morning person, always excited and constantly learning in the tech world.
   
-<br/>  
+## 
+
+- Demon Slayer is my favorite anime.
+- As a kid, I wanted to be an astronaut.
+- I love using Mac after switching from Linux.
   
-  ## My Info  
+  ## ✨ Fun Facts   
 <table><tr><td valign="top" width="50%">
  
-  - 🎓 Universitas Bina Insani  
-  
-  - 👨🏻‍💻 TECHNICAL INFORMATIKA
-  
-  - ⚡ I like to Coffe And Smoke 
+  - 🎓 a student of bina insani University
+  - Coding at night with cigarettes and coffee is my favorite 🔥🔥🔥.
+  - As a kid, I wanted to be an astronaut.
+  - I love trying new and challenging things 
+
 </td><td valign="top" width="50%">
 <div align="center">
 
 <img src="code.gif" align="center" style="width: 800%" />
 </div>  
-</td></tr></table>  
-<br/>  
+</td></tr>
+</table>  
   
-  ## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="cplusplus" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="mysql" height="25" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJs" height="25" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="git" height="25" />  
 
+## 📫 Contact
 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/syhru_arr/) or [LinkedIn](https://www.linkedin.com/in/muhammad-syahru-413241278/). 
+ 
+ For professional inquiries, reach out via email at [muhamadarul746@gmail.com](mailto:muhamadarul746@gmail.com). 
 
-</div>  
-
-<br/>  
-  
-  ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=syhru&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syhru&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>  
-<br/>  
-  
-<br/>  
-  
-<br/>  
-<br />
