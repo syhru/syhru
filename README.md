@@ -5,7 +5,7 @@
 I am a 21-year-old college student who is a Front-End/Back-End with two years of web development experience, specializing in JavaScript. I am passionate about keeping up with the latest industry developments and consistently improving my skills creating digital experiences.
   
 - Check out my linktree [website](http://linkmee.github.me/) to learn more about me.
-- Stay updated with my journey on [Instagram](https://www.instagram.com/syhru_arr/), and [LinkedIn](https://www.linkedin.com/in/muhammad-syahru-413241278/) 
+- Stay updated with my journey on [Instagram](https://www.instagram.com/syhru_arr/) and [LinkedIn](https://www.linkedin.com/in/muhammad-syahru-413241278/) 
 
 
 
