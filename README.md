@@ -1,6 +1,6 @@
 ## Hey Guys!!👋
 
-<h1>I'm Muhammad Syahru Romadhona</h1>
+<h3>I'm Muhammad Syahru Romadhona</h3>
 
 I am a 21-year-old college student who is a Front-End/Back-End with two years of web development experience, specializing in JavaScript. I am passionate about keeping up with the latest industry developments and consistently improving my skills creating digital experiences.
   
