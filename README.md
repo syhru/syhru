@@ -49,6 +49,13 @@ I am currently working as a Freelancer, where my journey involves building and l
       <td align="center" width=110>Php</td>
       <td align="center" width=110>MySQL</td>
     </tr>
+    <tr> 
+      <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
+    </tr>
+    <tr>
+      <td align="center" width=110>Mongo DB</td>
+    </tr>
+    
   </table>
 
   <table>
@@ -61,18 +68,22 @@ I am currently working as a Freelancer, where my journey involves building and l
      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110><img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/></td>
       <td align="center" width=110><img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/> </td>
+      <td align="center" width=110><img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/></td>
+      <td align="center" width=110><img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg"/></td>
       <tr align="center">
         <td align="center" width=110>React</td>
-        <td align="center" width=110>Nodejs</td>
-        <td align="center" width=110>Nextjs</td>
-        <td align="center" width=110>Bootstrap</td>
-        <td align="center" width=110>Tailwindcss</td>
+        <td align="center" width=110>Node.js</td>
+        <td align="center" width=110>Next.js</td>
+        <td align="center" width=110>Express.js</td>
+        <td align="center" width=110>Nest.Js</td>
       </tr>
       <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>
-      <tr align="center"> 
+      <tr align="center">
+      <td align="center" width=110>Bootstrap</td>
+      <td align="center" width=110>Tailwindcss</td> 
         <td align="center" width=110>JQuery</td>
       </tr>
     </tr>
