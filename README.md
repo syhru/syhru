@@ -1,6 +1,6 @@
 ## Hey Guys!!👋
 
-I'm Muhammad Syahru Romadhona
+<h1>I'm Muhammad Syahru Romadhona</h1>
 
 I am a 21-year-old college student who is a Front-End/Back-End with two years of web development experience, specializing in JavaScript. I am passionate about keeping up with the latest industry developments and consistently improving my skills creating digital experiences.
   
@@ -26,7 +26,7 @@ I am currently working as a Freelancer, where my journey involves building and l
 <table><tr><td valign="top" width="50%">
  
   - 🎓 a student of bina insani University
-  - Coding at night with cigarettes and coffee is my favorite 🔥🔥🔥.
+  - Coding at night with cigarettes and coffee is my favorite 🔥🔥.
   - As a kid, I wanted to be an astronaut.
   - I love trying new and challenging things 
 
