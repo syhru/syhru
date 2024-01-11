@@ -33,7 +33,7 @@ I am currently working as a Freelancer, where my journey involves building and l
 
 
 ## 🧑‍💻 Skills and Tools
-<div align="center">
+<div align="center" top="20%">
   <table>
     <thead>
       <tr>
@@ -137,12 +137,6 @@ I am currently working as a Freelancer, where my journey involves building and l
     </tr>
   </table>
 </div>
-
-<br>
-
-
-
-
 
 
 ## 📫 Contact
