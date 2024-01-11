@@ -21,19 +21,19 @@ I am currently working as a Freelancer, where my journey involves building and l
 <br>
 
   
-  ## ✨ Fun Facts
+ ## ✨ Fun Facts
 
 <div style="display: flex; align-items: center;">
   <div style="width: 50%;">
-    <ul>
-      <li>🎓 A student of Bina Insani University</li>
-      <li>Coding at night with cigarettes and coffee is my favorite 🔥🔥.</li>
-      <li>As a kid, I wanted to be an astronaut.</li>
-      <li>I love trying new and challenging things</li>
-    </ul>
+  
+- 🎓 A student of Bina Insani University
+- Coding at night with cigarettes and coffee is my favorite 🔥🔥.
+- As a kid, I wanted to be an astronaut.
+- I love trying new and challenging things
+
   </div>
   <div style="width: 50%;">
-    <img align="right" src="code.gif" style="width: 30%; height: auto;"/>
+    <img align="right" src="code.gif" style="width: 100%; height: auto;"/>
   </div>
 </div>
 
