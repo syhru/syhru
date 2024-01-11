@@ -21,21 +21,11 @@ I am currently working as a Freelancer, where my journey involves building and l
 <br>
 
   
- ## ✨ Fun Facts
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 20%;">
-  
-- 🎓 A student of Bina Insani University
-- Coding at night with cigarettes and coffee is my favorite 🔥🔥.
-- As a kid, I wanted to be an astronaut.
-- I love trying new and challenging things
-
-  </div>
-  <div style="width: 20%;">
-    <img align="right" src="code.gif" style="width: 20%; height: auto;"/>
-  </div>
-</div>
+ ## ✨ Fun Facts   
+  - 🎓 a student of bina insani University    <img align="right" src="code.gif" style="width: 40%; height: 40%;"/> 
+  - Coding at night with cigarettes and coffee is my favorite 🔥🔥.
+  - As a kid, I wanted to be an astronaut.
+  - I love trying new and challenging things 
 
 
 <br>
