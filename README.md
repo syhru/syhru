@@ -33,7 +33,7 @@ I am currently working as a Freelancer, where my journey involves building and l
 
 
 ## 🧑‍💻 Skills and Tools
-<div align="center" top="20%">
+<div align="center" style="margin-top:20%;">
   <table>
     <thead>
       <tr>
