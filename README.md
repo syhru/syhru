@@ -24,7 +24,7 @@ I am currently working as a Freelancer, where my journey involves building and l
  ## ✨ Fun Facts
 
 <div style="display: flex; align-items: center;">
-  <div style="width: 50%;">
+  <div style="width: 20%;">
   
 - 🎓 A student of Bina Insani University
 - Coding at night with cigarettes and coffee is my favorite 🔥🔥.
@@ -32,8 +32,8 @@ I am currently working as a Freelancer, where my journey involves building and l
 - I love trying new and challenging things
 
   </div>
-  <div style="width: 50%;">
-    <img align="right" src="code.gif" style="width: 100%; height: auto;"/>
+  <div style="width: 20%;">
+    <img align="right" src="code.gif" style="width: 20%; height: auto;"/>
   </div>
 </div>
 
