@@ -25,7 +25,7 @@ I am currently working as a Freelancer, where my journey involves building and l
   - 🎓 a student of bina insani University      <img align="right" src="code.gif" width="300" height="200" style="margin-bottom: 30px;"/> <br>
   - Coding at night with cigarettes and coffee is my favorite 🔥🔥.
   - As a kid, I wanted to be an astronaut.
-  - I love trying new and challenging things 
+  - I love trying new and challenging things <br>
 
 
 <br>
@@ -33,7 +33,7 @@ I am currently working as a Freelancer, where my journey involves building and l
 
 
 ## 🧑‍💻 Skills and Tools
-<div align="center" style="margin-top:20%;">
+<div align="center">
   <table>
     <thead>
       <tr>
