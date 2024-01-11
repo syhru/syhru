@@ -8,7 +8,7 @@ I am a 21-year-old college student who is a Front-End/Back-End with two years of
 - Stay updated with my journey on [Instagram](https://www.instagram.com/syhru_arr/) and [LinkedIn](https://www.linkedin.com/in/muhammad-syahru-413241278/) 
 
 <br>
-<br>
+
 
 ## 🔭 Current Endeavors 
 
@@ -19,7 +19,7 @@ I am currently working as a Freelancer, where my journey involves building and l
 - I'm a morning person, always excited and constantly learning in the tech world.
 
 <br>
-<br>
+
   
   ## ✨ Fun Facts   
 
@@ -29,7 +29,7 @@ I am currently working as a Freelancer, where my journey involves building and l
   - I love trying new and challenging things 
 
 <br>
-<br>
+
 
 ## 🧑‍💻 Skills and Tools
 <div align="center">
@@ -137,10 +137,11 @@ I am currently working as a Freelancer, where my journey involves building and l
   </table>
 </div>
 
+<br>
 
 
 
-<img src="code.gif" style="width: 100%; height: 50%;"/> 
+<img src="code.gif" style="width: 100%; height: 50%; margin-bottom: 20px;"/> 
 
 
 ## 📫 Contact
