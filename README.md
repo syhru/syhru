@@ -33,7 +33,7 @@ I am currently working as a Freelancer, where my journey involves building and l
     </ul>
   </div>
   <div style="width: 50%;">
-    <img align="right" src="code.gif" style="width: 100%; height: auto;"/>
+    <img align="right" src="code.gif" style="width: 30%; height: auto;"/>
   </div>
 </div>
 
