@@ -139,7 +139,7 @@ I am currently working as a Freelancer, where my journey involves building and l
 <br>
 
 <div align="center">
- <img src="code.gif" style="width: 50rem; height: 30rem;"/>
+ <img src="code.gif" style="width: 100%; height: 50%;"/>
 </div>
 
 <br>
