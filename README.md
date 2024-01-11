@@ -22,7 +22,7 @@ I am currently working as a Freelancer, where my journey involves building and l
 
   
   ## ✨ Fun Facts   
-  <img align="right" src="code.gif" style="width: 70px; height: 70px;"/> 
+  <img align="right" src="code.gif" style="width: 150px; height: 150px;"/> 
   - 🎓 a student of bina insani University
   - Coding at night with cigarettes and coffee is my favorite 🔥🔥.
   - As a kid, I wanted to be an astronaut.
