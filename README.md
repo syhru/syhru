@@ -28,7 +28,7 @@ I am currently working as a Freelancer, where my journey involves building and l
   - As a kid, I wanted to be an astronaut.
   - I love trying new and challenging things 
 
-  <img align="center" src="code.gif" style="width: 30%; height: 30%; margin-bottom: 20px;"/> 
+  <img align="right" src="code.gif" style="width: 30%; height: 30%;"/> 
 <br>
 
 
