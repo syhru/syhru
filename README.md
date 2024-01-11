@@ -138,7 +138,9 @@ I am currently working as a Freelancer, where my journey involves building and l
 
 <br>
 
- <img align="center" src="code.gif" style="width: 50rem; height: 30rem;"/>
+<div align="center">
+ <img src="code.gif" style="width: 50rem; height: 30rem;"/>
+</div>
 
 <br>
 
