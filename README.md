@@ -105,7 +105,6 @@ I am currently working as a Freelancer, where my journey involves building and l
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png"/> </td>
-      <td align="center" width=110><img height=60 src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png"/></td>
     </tr>
     <tr> 
       <td align="center" width=110>Figma</td>
@@ -116,10 +115,11 @@ I am currently working as a Freelancer, where my journey involves building and l
     </tr>
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td>
-       <td align="center" width=110>CodePen</td>
+        <td align="center" width=110><img height=60 src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png"/></td>
     </tr>
     <tr> 
       <td align="center" width=110>Google Cloud</td>
+      <td align="center" width=110>CodePen</td>
     </tr>
   </table>
   <table>
