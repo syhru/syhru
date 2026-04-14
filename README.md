@@ -55,10 +55,12 @@ I am currently working as a Freelancer, where my journey involves building and l
     <tr>
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="icon" width="65" height="65" /> </td>
     </tr>
     <tr>
       <td align="center" width=110>MySQL</td>
       <td align="center" width=110>PostgreSQL</td>
+      <td align="center" width=110>Supabase</td>
     </tr>
     
   </table>
